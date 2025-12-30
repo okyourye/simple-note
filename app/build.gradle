@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.okyourye.simplenotes'
+    namespace 'com.okyourye.simplenote'
     compileSdk 34
 
     defaultConfig {
-        applicationId 'com.okyourye.simplenotes'
+        applicationId 'com.okyourye.simplenote'
         minSdk 24
         targetSdk 34
         versionCode 1

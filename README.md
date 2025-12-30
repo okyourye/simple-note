@@ -1,6 +1,6 @@
-# Android Review Helper
+# SimpleNote
 
-A minimal Android app repository intended for Play Console review readiness.
+A minimal Android memo app.
 
 ## Overview
 - Simple offline memo app

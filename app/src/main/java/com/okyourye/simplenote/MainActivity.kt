@@ -1,8 +1,8 @@
-package com.okyourye.simplenotes
+package com.okyourye.simplenote
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.okyourye.simplenotes.databinding.ActivityMainBinding
+import com.okyourye.simplenote.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
